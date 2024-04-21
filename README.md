@@ -1,4 +1,4 @@
-# Ejemplo de Markdown
+# Tarea: Hacer un readme estilo pagina web bien hecha acerca de programacion, python e inteligencia artificial
 
 ## Formato de texto
 - **Negrita**: `**texto**`
