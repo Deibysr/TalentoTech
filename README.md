@@ -33,19 +33,19 @@ La IA tiene el potencial de transformar industrias enteras, desde la salud hasta
 |                | - Automatización de tareas administrativas y repetitivas                                 |
 |                | - Desarrollo y descubrimiento acelerado de medicamentos                                  |
 |----------------|------------------------------------------------------------------------------------------|
-| Manufactura    | - Automatización de líneas de producción                                                  |
+| Manufactura    | - Automatización de líneas de producción                                                 |
 |                | - Mantenimiento predictivo de maquinaria                                                 |
-|                | - Optimización de cadenas de suministro                                                   |
+|                | - Optimización de cadenas de suministro                                                  |
 |                | - Control de calidad mejorado mediante visión artificial                                 |
 |----------------|------------------------------------------------------------------------------------------|
-| Educación      | - Sistemas de tutoría personalizada                                                       |
-|                | - Análisis predictivo para identificar estudiantes en riesgo                              |
-|                | - Automatización de tareas administrativas                                                |
+| Educación      | - Sistemas de tutoría personalizada                                                      |
+|                | - Análisis predictivo para identificar estudiantes en riesgo                             |
+|                | - Automatización de tareas administrativas                                               |
 |                | - Enriquecimiento de materiales educativos con realidad aumentada y virtual              |
 |----------------|------------------------------------------------------------------------------------------|
 | Entretenimiento| - Recomendaciones personalizadas de contenido                                            |
 |                | - Creación de contenido interactivo y adaptativo                                         |
-|                | - Videojuegos con inteligencia artificial que adapta desafíos                             |
+|                | - Videojuegos con inteligencia artificial que adapta desafíos                            |
 |                | - Mejoras en efectos visuales y animación mediante IA                                    |
 
 En este ejemplo, crearemos un modelo de clasificación simple para predecir si una flor es de la especie Iris-setosa basándonos en sus características. Este es un clásico ejemplo introductorio al aprendizaje automático
